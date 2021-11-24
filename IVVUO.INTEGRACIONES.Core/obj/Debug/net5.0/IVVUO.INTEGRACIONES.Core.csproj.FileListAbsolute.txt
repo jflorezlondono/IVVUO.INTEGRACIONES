@@ -1,0 +1,12 @@
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Core\bin\Debug\net5.0\IVVUO.INTEGRACIONES.Core.deps.json
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Core\bin\Debug\net5.0\IVVUO.INTEGRACIONES.Core.dll
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Core\bin\Debug\net5.0\ref\IVVUO.INTEGRACIONES.Core.dll
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Core\bin\Debug\net5.0\IVVUO.INTEGRACIONES.Core.pdb
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Core\obj\Debug\net5.0\IVVUO.INTEGRACIONES.Core.csproj.AssemblyReference.cache
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Core\obj\Debug\net5.0\IVVUO.INTEGRACIONES.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Core\obj\Debug\net5.0\IVVUO.INTEGRACIONES.Core.AssemblyInfoInputs.cache
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Core\obj\Debug\net5.0\IVVUO.INTEGRACIONES.Core.AssemblyInfo.cs
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Core\obj\Debug\net5.0\IVVUO.INTEGRACIONES.Core.csproj.CoreCompileInputs.cache
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Core\obj\Debug\net5.0\IVVUO.INTEGRACIONES.Core.dll
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Core\obj\Debug\net5.0\ref\IVVUO.INTEGRACIONES.Core.dll
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Core\obj\Debug\net5.0\IVVUO.INTEGRACIONES.Core.pdb

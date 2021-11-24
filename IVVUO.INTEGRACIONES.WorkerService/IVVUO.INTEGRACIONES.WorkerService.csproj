@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>dotnet-IVVUO.INTEGRACIONES.WorkerService-D44152B7-3504-4BCA-BE15-D547C95E4B35</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.12" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IVVUO.INTEGRACIONES.Core\IVVUO.INTEGRACIONES.Core.csproj" />
+    <ProjectReference Include="..\IVVUO.INTEGRACIONES.Infraestructure\IVVUO.INTEGRACIONES.Infraestructure.csproj" />
+  </ItemGroup>
+</Project>

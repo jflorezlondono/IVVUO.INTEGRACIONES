@@ -1,0 +1,10 @@
+Configuración para ejecutar servicio:
+
+1. Descromprimir archivo bin
+2. Entrar a la(s) carpeta(s) bin>Debug>net5.0> Doble click a IVVUO.INTEGRACIONES.WorkerService (aplicación)
+
+Configuración para el servicio (appsettings)
+
+1. Descromprimir archivo bin
+2. Entrar a la(s) carpeta(s) bin>Debug>net5.0> Abrir archivo appsettings
+3. Guardar archivo appsettings con las configuraciones aplicadas

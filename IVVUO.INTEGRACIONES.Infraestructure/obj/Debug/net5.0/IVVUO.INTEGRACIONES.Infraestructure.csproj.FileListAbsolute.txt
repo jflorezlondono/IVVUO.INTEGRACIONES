@@ -1,0 +1,15 @@
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Infraestructure\obj\Debug\net5.0\IVVUO.INTEGRACIONES.Infraestructure.csproj.AssemblyReference.cache
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Infraestructure\obj\Debug\net5.0\IVVUO.INTEGRACIONES.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Infraestructure\obj\Debug\net5.0\IVVUO.INTEGRACIONES.Infraestructure.AssemblyInfoInputs.cache
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Infraestructure\obj\Debug\net5.0\IVVUO.INTEGRACIONES.Infraestructure.AssemblyInfo.cs
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Infraestructure\obj\Debug\net5.0\IVVUO.INTEGRACIONES.Infraestructure.csproj.CoreCompileInputs.cache
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Infraestructure\bin\Debug\net5.0\IVVUO.INTEGRACIONES.Infraestructure.deps.json
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Infraestructure\bin\Debug\net5.0\IVVUO.INTEGRACIONES.Infraestructure.dll
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Infraestructure\bin\Debug\net5.0\ref\IVVUO.INTEGRACIONES.Infraestructure.dll
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Infraestructure\bin\Debug\net5.0\IVVUO.INTEGRACIONES.Infraestructure.pdb
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Infraestructure\bin\Debug\net5.0\IVVUO.INTEGRACIONES.Core.dll
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Infraestructure\bin\Debug\net5.0\IVVUO.INTEGRACIONES.Core.pdb
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Infraestructure\obj\Debug\net5.0\IVVUO.INTEGRACIONES.Infraestructure.csproj.CopyComplete
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Infraestructure\obj\Debug\net5.0\IVVUO.INTEGRACIONES.Infraestructure.dll
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Infraestructure\obj\Debug\net5.0\ref\IVVUO.INTEGRACIONES.Infraestructure.dll
+D:\DMS\Repositorios\IVVUO.INTEGRACIONES.WorkerService\IVVUO.INTEGRACIONES.Infraestructure\obj\Debug\net5.0\IVVUO.INTEGRACIONES.Infraestructure.pdb
